@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nhi</h1>
 <h3 align="center">We are all in the gutter, but some of us are looking at the stars.</h3>
 <p align="center">
-<img src="https://ghiencongnghe.info/wp-content/uploads/2021/02/1581591620013_WhoppingBlackLemur-size_restricted.gif" width="500" height="500" />
+<img src="https://ghiencongnghe.info/wp-content/uploads/2021/02/1581591620013_WhoppingBlackLemur-size_restricted.gif" width="500" height="300" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/bảo nhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bảo nhi" height="30" width="40" /></a>
